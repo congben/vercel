@@ -1,5 +1,14 @@
 # vercel
 
+## 35.2.4
+
+### Patch Changes
+
+- Display custom environments in `vc env ls` ([#11912](https://github.com/vercel/vercel/pull/11912))
+
+- Updated dependencies [[`d77d0919b`](https://github.com/vercel/vercel/commit/d77d0919b45eb3e8d27a9b75c0994727c926ccb0)]:
+  - @vercel/remix-builder@2.2.4
+
 ## 35.2.3
 
 ### Patch Changes
